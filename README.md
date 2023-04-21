@@ -11,7 +11,7 @@ I learned how to use math methods and slightly more complex logic to funnel answ
 N/A
 
 ##Usage
-Step 1 : Go to the site and click "Generate Password"
+Step 1 : Go to the site [https://shadowfre4k.github.io/rand-numb-gen/] and click "Generate Password"
 ![Click generate button](/assets/Screenshots/screenshot%201.png)
 
 Step 2 : Type in desired amount for password
