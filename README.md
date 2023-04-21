@@ -1,6 +1,6 @@
 # <Random Number Generator>
 
-##Description
+## Description
 
 My motivation behind this project was to be able to create a random number generator using prompts, confrims, and alert windows.
 I wanted to put this project together to see if I could put together a randomizer meeting requirements given to us by the user.
@@ -10,7 +10,11 @@ I learned how to use math methods and slightly more complex logic to funnel answ
 
 N/A
 
-##Usage
+## Usage
+
+to View REPO site :
+https://github.com/shadowfre4k/rand-numb-gen
+
 Step 1 : Go to the site [https://shadowfre4k.github.io/rand-numb-gen/] and click "Generate Password"
 ![Click generate button](/assets/Screenshots/screenshot%201.png)
 
